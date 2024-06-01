@@ -23,4 +23,8 @@
 # To automatically generate the json file execute this instruction :
 💻 python JSONGEN.py
 
+![Descrizione dell'immagine](https://thumb.ac-illust.com/31/31cb1dad1e35351a2c9a3c608a1a9a06_t.jpeg)
+
 # ⚠️ ❌ ATTENTION! This code can cause adverse effects on a remote system without permission. Illegal use carries serious criminal consequences
+
+![Descrizione dell'immagine](https://thumb.ac-illust.com/31/31cb1dad1e35351a2c9a3c608a1a9a06_t.jpeg)
